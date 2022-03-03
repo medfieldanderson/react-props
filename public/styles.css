@@ -1,0 +1,11 @@
+.Card {
+  background-color: cadetblue;
+  padding: 1rem;
+  border-radius: 15px;
+  margin: 0.5rem;
+}
+
+.cardImg {
+  width: 150px;
+  height: 150px;
+}
